@@ -7,4 +7,4 @@ math: true
 author: #autone
 ---
 
-= What is Cryptography?
+## What is Cryptography?
