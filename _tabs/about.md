@@ -12,5 +12,5 @@ My research interests include:
   + Cryptography
   + Algorithms
   + Theoretical Computer Science
-  + Number Theory
+  + Algebra & Number Theory 
 
