@@ -226,3 +226,13 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-scholar
+
+scholar:
+  # Use jekyll-scholar to manage your bibliography
+  bibliography: refs.bib
+  style: apa
+  locale: en-US
+  #sort_by: year

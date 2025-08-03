@@ -47,3 +47,5 @@ My research interests include:
 
   - Address: 110-A, First Floor, Academic Building 4, IISER Bhopal 462066, INDIA
   - Phone: +91 755 269 2643
+
+
